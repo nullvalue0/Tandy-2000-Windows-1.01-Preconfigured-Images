@@ -1,4 +1,4 @@
-# Tandy-2000-Windows-1.01-Preconfigured-Images
+# Tandy 2000 Windows 1.01 Pre-configured Images
 Pre-configured Tandy 2000 Startup &amp; System disks for Microsoft Windows 1.01. Set for color display and Digi-Mouse support enabled.  
 
 These disks were built using the images found here: https://github.com/Tandy2K/Tandy2000/tree/master/Software/Windows%201.01. The process is convoluted and error-prone. This is the result of multiple days attempting to build a good disk set.
