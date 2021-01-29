@@ -7,4 +7,4 @@ It consists of a "Startup Disk" which goes is your A: (bottom bay), and a "Syste
 
 These disks have been set up to take advantage of the 720k format supported on the Tandy 2000. This means all of the distributed applications, fonts and printer drivers are are on just these 2 disks.  
 
-I recommend using ImageDisk 1.18 to write these disks. If you use a 1.2MB 5.25" floppy disk drive, make sure that you use DD (not HD) disks. In the Settings, turn Double Step Off, and change 250 kbps -> 300 kbps.
+I recommend using ImageDisk 1.18 to write these disks. If you use a 1.2MB 5.25" floppy drive, make sure that you use DD (not HD) disks. In the Settings, turn Double Step Off, and change 250 kbps -> 300 kbps.
